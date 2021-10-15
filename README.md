@@ -17,4 +17,4 @@ Um módulo Python com funções que retornam informações de uma cidade, como t
 
 * `infocity.getClimate(city)´
 
-Função recebe como parametro o nome de uma cidade e retorna uma descrição do clima. Exemplo:  ```print(infocity.getClimate('São Paulo')```
+Função recebe como parametro o nome de uma cidade e retorna uma descrição do clima. \nExemplo:  ```print(infocity.getClimate('São Paulo')```
