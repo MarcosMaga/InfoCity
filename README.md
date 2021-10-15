@@ -7,13 +7,13 @@ Um módulo Python com funções que retornam informações de uma cidade, como t
 * Google Chrome
 * Chrome Driver
 
-### Como usar?
+## Como usar?
 
 * Baixe o repositorio e extraia dentro da pasta do seu projeto.
 * Importe o módulo usando: `import infocity`.
 * Veja o exemplo para ver a utilização na prática. (`example.py`)
 
-#### Funções
+## Funções
 
 * `infocity.getClimate(city)´
 
