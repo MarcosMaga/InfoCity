@@ -50,7 +50,7 @@ Função recebe como parametro o nome de uma cidade e retorna a primeira notíci
 Função recebe como parametro o nome de uma cidade e um numero inteiro representanto a quantidade de noticias que se deve retornar. Retorna a quantidade de notícias solicitadas desta cidade.
 <br/>Exemplo: `print(infocity.getNews('Salvador, 5'))` <- Retornará 5 notícias de Salvador
 
-###Avisos
+### Avisos
 
 * Os dados são todos adquiridos pelo `Google` e `Google News` via `WebScrap`.
 * Mantenha seu Google Chrome atualizado, caso não utilize, pode-se alterar o `webdriver` no código fonte.
