@@ -55,6 +55,7 @@ Função recebe como parametro o nome de uma cidade e um numero inteiro represen
 * Os dados são todos adquiridos pelo `Google` e `Google News` via `WebScrap`.
 * Mantenha seu Google Chrome atualizado, caso não utilize, pode-se alterar o `webdriver` no código fonte.
 * Mantenha o `Selenium` atualizado.
+* Matenha o seu WebDriver atualizado.
 * O exemplo não precisa ser importado para pasta do seu projeto.
 * Obrigado por usar
 
